@@ -14,9 +14,10 @@
  }
 
  .hero-image-container {
+
  	background: url(img/cover.jpg);
  	background-size: cover;
- 	background-position: cover;
+ 	background-position: center;
 
  }
 

@@ -67,7 +67,7 @@ p {
 }
 
 .flex-container * {
-    flex: 3;
+    flex: 1;
 }
 
 
