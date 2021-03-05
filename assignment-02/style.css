@@ -1,21 +1,70 @@
-/*@font-face {
-	font-family: "circular";
-	src: url(assets/circularpro-medium.otf) format('otf');
-}*/
+.title {
+	font-family: lust-stencil-display, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 100px;
+	line-height: 1.5em;
+}
+.subtitle {
+	font-family: lust-sans, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
 
-body {
-	
-font-family:'Helvetica', sans-serif;
+.title.
+.subtitle {
+	line-height: 0.01em;
+}
+
+.header {
+	font-family: lust-stencil, sans-serif
+	font-weight: 700;
+	font-style: normal;
+	font-size: 50px;
 
 }
 
-h1 {
-	color: hotpink;
+body {
+font-family: lust-sans, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+font-family: 'lust-sans', sans-serif;
+font-weight:700;
+font-style: normal;
+
+margin-left: 10%;
+margin-right: 20%;
+padding: 2% 10%;
+align-content: left;
+line-height: 2.5em;
+
+/*background-color: #B6B8DD;*/
+background: rgb(182,184,221);
+background: linear-gradient(0deg, rgba(182,184,221,1) 89%, rgba(182,184,221,1) 98%, rgba(111,255,43,1) 100%);
+}
+
+
+ol {
+	font-family: lust-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 25px;
+
+	border: 3px solid black;
+	box-sizing: border-box;
+	width: 50%;
+	/*height: 60%;*/
+	padding: 1% 2% 1% 7%;
 }
 
 p {
-	font-size: 20px;
+	font-family: lust-sans, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 25px;
 
 }
+
 
 
