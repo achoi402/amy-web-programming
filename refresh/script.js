@@ -4,12 +4,12 @@ let stringArray = string.split(" ");
 
 let caption = "don't you remember the words? find them again.";
 
-var audio = new Audio("seoul.mp3");
+// var audio = new Audio("seoul.mp3");
 
 
-document.onmousemove = function() {
-  audio.play();
-}
+// document.onmousemove = function() {
+//   audio.play();
+// }
 
 
 
